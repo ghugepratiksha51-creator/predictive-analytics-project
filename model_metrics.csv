@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE (%),R2
+Linear Regression,6.502,8.096,2.5,0.7526
+Random Forest,9.691,11.602,3.61,0.4919
+Holt-Winters (time series),16.173,20.592,5.92,-0.6006
